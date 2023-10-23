@@ -7,7 +7,7 @@ _______________________
 Have you ever wished you could place all your **thoughts** and **emotions**
 in one place?
 
-### 👋🏼Welcome to your _Daily Emotion Tracker!_
+### Welcome to your _Daily Emotion Tracker!_
 
 The Daily Emotion Tracker is a platform where you will have a daily prompt to express your feelings and anything else
 you would like to share. You will have the opportunity to give a detailed response within 150 characters. In addition, you
